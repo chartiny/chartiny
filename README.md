@@ -1,1 +1,1 @@
-# chartiny
+# Welcome to Chartiny!
